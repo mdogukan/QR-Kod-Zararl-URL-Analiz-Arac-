@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+requests
+python-dotenv
+colorama
+numpy
